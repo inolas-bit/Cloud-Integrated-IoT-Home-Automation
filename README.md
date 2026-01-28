@@ -72,8 +72,7 @@ The architecture includes:
 
 ##  Project Diagram
 
-
-
+<img width="1211" height="504" alt="architecture png" src="https://github.com/user-attachments/assets/47e5ae68-41b4-4104-ae3d-2c33c6aa64f6" />
 
 
 
