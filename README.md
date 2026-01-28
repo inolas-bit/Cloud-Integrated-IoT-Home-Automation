@@ -74,7 +74,14 @@ The architecture includes:
 
 <img width="1211" height="504" alt="architecture png" src="https://github.com/user-attachments/assets/47e5ae68-41b4-4104-ae3d-2c33c6aa64f6" />
 
+## Ping test 
+<img width="502" height="868" alt="Screenshot 2025-11-23 190156" src="https://github.com/user-attachments/assets/4f4ffa81-9a4f-4bd9-b76c-ad14a7cc2efa" />
 
+<img width="567" height="274" alt="Screenshot 2025-11-23 190902" src="https://github.com/user-attachments/assets/b7ce6f57-1b2d-4dc8-abe9-c76731d0beab" />
+
+<img width="563" height="492" alt="Screenshot 2025-11-23 191034" src="https://github.com/user-attachments/assets/d59e9e62-f862-4bd6-b739-f3c46f41fa43" />
+
+<img width="492" height="402" alt="Screenshot 2025-11-23 194554" src="https://github.com/user-attachments/assets/f6bb8450-9134-404d-befc-edce77bfce64" />
 
 
 ##  Learning Outcomes
